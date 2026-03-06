@@ -1,0 +1,29 @@
+body {
+    font-family: Montserrat,sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
